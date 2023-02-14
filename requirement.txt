@@ -3,3 +3,4 @@ tensorflow
 keras
 scikit-learn
 scipy
+google-cloud-storage
